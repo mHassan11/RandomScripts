@@ -1,0 +1,6 @@
+Dear ${PERSON_NAME}, 
+
+Please receive your channel graphs for ${DATE}. 
+Have a great day! 
+
+Yours Truly
